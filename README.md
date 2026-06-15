@@ -23,16 +23,21 @@ The project follows a complete data science pipeline:
 **Tools & Libraries**
 
 .Language: Python
+
 .Data Manipulation: pandas, numpy
+
 .Machine Learning: scikit-learn, xgboost, lightgbm, catboost
+
 .Optimization: scipy.optimize
 
 **Performance**
 The final model leverages a weighted ensemble of the following algorithms:
 
-XGBoost Regressor
-LightGBM Regressor
-CatBoost Regressor
+.XGBoost Regressor
+
+.LightGBM Regressor
+
+.CatBoost Regressor
 
 By assigning weights based on the Nelder-Mead method, the final prediction provides a balanced and robust output that outperforms individual models.
 
