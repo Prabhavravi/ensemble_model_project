@@ -4,6 +4,8 @@
 
 This repository contains my first end-to-end machine learning project. The objective was to build a robust predictive model using an ensemble approach to estimate a continuous target variable. By combining the strengths of multiple gradient-boosting algorithms, I aimed to maximize predictive accuracy and generalization.
 
+This project was built on an anonymized industry dataset. Without domain context, the focus was entirely on rigorous methodology.Then let the Nelder-Mead optimization, correlation-based feature reduction, and ensemble strategy carry the weight. Make the methodology section so detailed that the dataset almost doesn't matter.
+
 **Methodology**
 
 The project follows a complete data science pipeline:
